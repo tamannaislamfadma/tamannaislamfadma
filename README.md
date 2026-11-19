@@ -230,22 +230,25 @@
 
 <td width="50%" valign="top">
 
-<h3>🛒 DailyMart</h3>
 
-<p>A grocery shopping platform with a mobile application, admin dashboard, and backend services.</p>
+<h3>🐰 Buddio AI – Desktop Pet</h3>
+
+<p>An AI-powered desktop bunny companion with interactive conversations, memory-based interactions, and voice support.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Desktop_App-000000?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 <h4>REPOSITORY</h4>
-<a href="https://github.com/tamannaislamfadma/DailyMart">
+<a href="https://github.com/tamannaislamfadma/Buddio-AI-desktop-pet">
   <img src="https://img.shields.io/badge/VIEW_REPOSITORY-F59E0B?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
+
 
 <!-- ROW 4 -->
 <tr>
